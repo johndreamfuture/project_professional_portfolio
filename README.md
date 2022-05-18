@@ -1,4 +1,4 @@
-# Micael - The Ultimate Web Development Portfolio 
+# The  Web Development Portfolio 
 
 
 ## Introduction
